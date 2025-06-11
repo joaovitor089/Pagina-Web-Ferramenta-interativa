@@ -1,7 +1,7 @@
 criaCartao(
     'Felicidades',
     'trabalhar sair dar uma volta?',
-    'sair com sua compaheira!!!'
+    'jogar bola!!!'
 )
 
 criaCartao(
@@ -18,5 +18,5 @@ criaCartao(
 
 criaCartao(
     'O que gosta de fazer para se sentir feliz durante o dia dia',
-    'jogar bola sair para algum lugar com sua companheira','
+    'jogar bola sair para festas','
 )
