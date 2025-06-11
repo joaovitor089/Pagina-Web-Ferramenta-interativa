@@ -17,7 +17,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'O que gosta de fazer para se sentir feliz durante o dia dia',
+    'jogar bola sair para algum lugar com sua companheira','
 )
