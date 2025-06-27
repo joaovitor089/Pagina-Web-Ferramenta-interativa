@@ -1,23 +1,23 @@
 criaCartao(
     'Felicidade',
-    'O que precisa para ser feliz?',
+    'jogar bola ?',
     ' Fazer o que gosta!!!'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    'RasinformaticA'
+    'O que mais gosta de fazer',
+    'Laçar dormir  trabalhar',
+    'comer'
 )
 
 criaCartao(
     'Qual é a melhor turma do CERB',
     'A que mais se dedica nas aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    '2 B, ALUNO João Vitor'
 )
 
 criaCartao(
-    'Código',
-    'O que è ?',
-    '"O código é poesia lógica que transforma ideias em realidade."'
+    'melhor time ',
+    'Qual é ?',
+    '"Palmeiras."'
 )
