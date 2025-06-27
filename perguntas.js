@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'melhor time ',
     'Qual é ?',
-    '"Palmeiras."'
+    'Palmeiras',
 )
